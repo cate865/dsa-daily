@@ -15,3 +15,9 @@ Learnt about sorting algorithms and made notes:<br>
 
 Learnt about graphs:<br>
 :heavy_check_mark: Definition and Vocabulary in graphs<br>
+
+## :computer: Day 3
+
+Cpntinued learning about graphs:<br>
+:heavy_check_mark: Implementation of Graph ADT using Adjacency matrix<br>
+:heavy_check_mark: Implementation of Graph ADT using Adjacency list<br>
